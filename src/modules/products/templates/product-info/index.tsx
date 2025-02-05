@@ -23,7 +23,8 @@ const ProductInfo = ({ product }: ProductInfoProps) => {
           className="text-3xl leading-10 text-ui-fg-base"
           data-testid="product-title"
         >
-          {product.title}
+          Saquan Barkley
+          {/* {product.title} */}
         </Heading>
 
         <Text
